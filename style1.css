@@ -75,3 +75,17 @@
     margin-bottom: 20px;
   }
 }
+
+.Progress
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.work-image{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width:20%;
+}
